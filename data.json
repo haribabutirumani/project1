@@ -1,0 +1,44 @@
+{
+  "details":{
+    "image":"p.jpg",
+    "name":"Haribabu",
+    "phone":"+74746373563536",
+    "email":"haribabu@gmail.com",
+    "address":"41-12-16, krishna lanka, vijayawada"
+  },
+  "career":{
+    "info":"to pursue a challenging career"
+  },
+  "education":[{
+    "qualification":"b.tech",
+    "institute":"mic college of technology",
+    "year":"2016-2020",
+    "percentage":"70"
+
+},
+{   "qualification":"intermediate",
+    "institute":"sri chaitanya",
+    "year":"2014-2016",
+    "percentage":"87"
+},
+{
+      "qualification":"schooling",
+      "institute":"nava bharath",
+      "year":"20130-2014",
+      "percentage":"92"
+}
+],
+"skills":[{
+  "title":"programming languages",
+  "info":["c,java,r,python"]
+},
+{
+  "title":"databases",
+  "info":["oracle,sql,mysql,tinydb"]
+},
+{
+  "title":"operating systems",
+  "info":["windows,linux,sierra"]
+}
+]
+}
